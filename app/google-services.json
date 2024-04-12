@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284875966586",
+    "project_id": "pedometer-testing-thesis",
+    "storage_bucket": "pedometer-testing-thesis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284875966586:android:daceb4242a56196a6493c3",
+        "android_client_info": {
+          "package_name": "com.example.sensorrecorder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1L_yRylNILGndgfT65Fu4K-AtC5riG5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
